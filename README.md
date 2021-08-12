@@ -9,7 +9,7 @@ $ virtualenv venv
 $ source venv/bin/activate
 ```  
 
-## Install rall dependencies
+## Install all dependencies
 ```sh
 $ pip3 install -r requirements.txt
 ```
