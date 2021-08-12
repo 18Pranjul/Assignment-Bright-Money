@@ -14,7 +14,7 @@ $ source venv/bin/activate
 $ pip3 install -r requirements.txt
 ```
   
-## install RabbitMq (for Async Message Queue)
+## Install RabbitMq (for Async Message Queue)
 
 ### Add a repository
 ```sh
@@ -27,7 +27,7 @@ $ - wget -O- https://www.rabbitmq.com/rabbitmq-release-signing-key.asc | sudo ap
 $ - sudo apt-get update
 ```
 
-### install
+### Install
 ```sh
 $ sudo apt-get install rabbitmq-server
 ```
