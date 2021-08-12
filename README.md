@@ -79,17 +79,6 @@ $ celery -A Plaid_Manager_API worker -l info
 
 ## Model Details:
 
-### Django Inbuilt User Model:
-  
-- email
-- username
-- date_joined
-- last_login
-- is_admin
-- is_active
-- is_staff
-- is_superuser  
-  
 ### BankItemModel
   
 -	bank_item_id
