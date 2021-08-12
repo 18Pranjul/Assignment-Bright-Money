@@ -1,0 +1,11 @@
+venv/
+Plaid_Manager_API/token_exchange/.env
+Plaid_Manager_API/Plaid_Manager_API/__pycache__
+Plaid_Manager_API/token_exchange/__pycache__
+Plaid_Manager_API/token_exchange/migrations
+Plaid_Manager_API/users/__pycache__
+Plaid_Manager_API/users/migrations
+Plaid_Manager_API/celerybeat-schedule.bak
+Plaid_Manager_API/celerybeat-schedule.dat
+Plaid_Manager_API/celerybeat-schedule.dir
+Plaid_Manager_API/db.sqlite3
