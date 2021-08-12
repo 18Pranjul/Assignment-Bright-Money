@@ -47,10 +47,8 @@ $ python3 manage.py runserver
 ## Start Celery worker  
 
 ```sh
-$ celery -A plaid_manager worker -l info
+$ celery -A Plaid_Manager_API worker -l info
 ```
-![](/api_photos/rabbitmq.png)
-
   
 ## API END-PONTS  
   
